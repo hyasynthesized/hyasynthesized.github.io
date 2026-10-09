@@ -25,5 +25,7 @@ socials = [
 
 menu = [
     { name = "Home", url = "/"},
-    { name = "Resume", url = "/resume"}
+    { name = "Resume", url = "/resume"},
+    { name = "AI Policy", url = "/ai"}
+
 ]
