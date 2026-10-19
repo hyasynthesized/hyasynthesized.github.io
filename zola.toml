@@ -7,7 +7,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-theme = "apollo"
+theme = "linkita"
 
 [markdown]
 
@@ -15,18 +15,11 @@ theme = "apollo"
 theme = "catppuccin-mocha"
 
 [extra]
-# Put all your custom variables here
-analytics = false
-
-socials = [
-  { name = "bsky", url = "https://hyasynthesized.bsky.social", icon = "bluesky" },
-  { name = "github", url = "https://github.com/hyasynthesized/", icon = "github" },
+header_menu_name = "header_links"
+[extra.menus]
+header_links = [
+    { name = "Resume", url = "@base/resume/"},
+    { name = "Blog", url = "@base/blog/"},
+    { name = "AI Policy", url = "@base/ai/"}
 ]
 
-menu = [
-    { name = "Home", url = "/"},
-    { name = "Resume", url = "/resume"},
-    { name = "Blog", url = "/blog"},
-    { name = "AI Policy", url = "/ai"}
-
-]

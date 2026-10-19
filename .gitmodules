@@ -1,3 +1,13 @@
 [submodule "themes/apollo"]
 	path = themes/apollo
 	url = https://github.com/not-matthias/apollo
+[submodule "themes/zola-quiet"]
+	path = themes/zola-quiet
+	url = https://github.com/johnnybravo-xyz/zola-quiet
+[submodule "themes/linkita"]
+	path = themes/linkita
+	url = https://github.com/salif/linkita.git
+	branch = main
+[submodule "themes/zola-bearblog"]
+	path = themes/zola-bearblog
+	url = https://codeberg.org/alinnow/zola-bearblog
