@@ -9,6 +9,13 @@ build_search_index = false
 
 theme = "linkita"
 
+author="hyasynthesized"
+
+title="Laura Willrich"
+description="My name is Laura Willrich. I'm a software engineer and amateur musician from Des Moines, Iowa. I'm currently looking for a job, so please check out my [resume](resume)."
+
+
+
 [markdown]
 
 [markdown.highlighting]
@@ -23,3 +30,12 @@ header_links = [
     { name = "AI Policy", url = "@base/ai/"}
 ]
 
+
+[extra.profiles.hyasynthesized]
+name="Laura Willrich"
+
+social = [
+    { name = "bluesky", url = "https://hyasynthesized.bsky.social" },
+    { name = "github", url = "https://github.com/hyasynthesized" },
+    { name = "email", url = "mailto:lauraewillrich@gmail.com" },
+]

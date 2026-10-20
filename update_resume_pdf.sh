@@ -1,1 +1,1 @@
-sed 's/^.*PDF copy.*$//g;s/title = "\(.*\)"/# \1/g;s/+++//g;s/\[\(.*\)\](\(.*\))/\1 (\2)/g' content/resume.md | pandoc --pdf-engine=typst -o content/resume.pdf
+sed 's/^.*PDF copy.*$/For a better-formatted version of my resume with links to my portfolio projects, visit my website at hyasynthesized.github.io\/resume/g;s/title = "\(.*\)"/# \1/g;s/+++//g;s/\[\(.*\)\](\(.*\))/\1 (\2)/g' content/resume.md | pandoc --pdf-engine=typst -o content/resume.pdf
