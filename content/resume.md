@@ -3,6 +3,8 @@ title = "Resume"
 +++
 Laura Willrich | lauraewillrich@gmail.com | [hyasynthesized.github.io](https://hyasynthesized.github.io)
 
+[Link to a PDF copy](/resume.pdf)
+
 ## Portfolio
 For an up-to-date look at what I've been working on, check out [my GitHub](https://github.com/hyasynthesized), but here are some projects I'm particularly proud of.
 
