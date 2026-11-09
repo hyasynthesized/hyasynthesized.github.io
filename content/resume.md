@@ -56,6 +56,7 @@ I would love to break into the embedded space but haven't really had the opportu
     - Pit musician (percussion), 2022 to present
 - First Presbyterian Church in Dallas Center
     - Technology coordinator for livestreaming of Sunday Service during the Covid-19 Pandemic
+    - In addition to setup and preparation of livestreaming software (OBS), I also selected, purchased, and assembled appropriate and cost-effective computer hardware to work with the church's existing AV equipment.
     - Trained multiple church volunteers on use and troubleshooting of the livestreaming software
 
 ## Experience
