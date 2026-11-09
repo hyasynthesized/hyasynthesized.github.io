@@ -65,7 +65,7 @@ I would love to break into the embedded space but haven't really had the opportu
 My primary job was to program commercial HVAC devices, however I often found myself creating additional tooling around the existing tooling to help make the other programmers' jobs more efficient.
 
 ### Spring 2022 - Telligen - Desktop Support Intern
-Imaging laptops, doing battery replacements, putting together equipment, boxing it up to be shipped to WFH employees, doing inventory checks,  whatever grunt work tasks the IT department needed
+Imaging laptops, battery replacements, putting together equipment, setting it up for in-person employees or packing and shipping it for WFH employees, inventory checks. Some use of Active Directory.
 
 ### Summer 2021 - HyVee Helpful Smiles Technology - Programming Intern
 We had an ancient completely untested and mostly undocumented VB.net service that ran every night that pushed prices from the central database to various machines in the store that used a variety of protocols. I was solely responsible for modernizing this application to C#, which meant writing tests to verify behavior of the old code, then writing new code spec'd to those tests. 
